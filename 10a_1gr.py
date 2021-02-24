@@ -5,7 +5,7 @@ print(5+6)
 2 Berga Laura
 
 3 Fiïimonovs Eldars
-
+print(2+2*2);
 4 Gaiðute Ksenija
 
 5 Gorniks Arturs
